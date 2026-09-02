@@ -1,0 +1,1 @@
+# CNN-Based-Deep-Learning-Model-for-Malaria-Prediction
