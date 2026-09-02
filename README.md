@@ -9,7 +9,7 @@ This project uses Convolutional Neural Networks (CNNs) to classify microscopic b
 ### 🖼️ Project Preview
 
 <p align="center">
-  <img src="images/deep-learning-model.png" alt="CNN-Based Malaria Prediction Model" width="850">
+  <img src="CNN-based Deeplearning model.jpeg" alt="CNN-Based Malaria Prediction Model" width="850">
 </p>
 
 ### 🚀 Highlights
